@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <nombre>asdfsadf</nombre>
+    <total>6</total>
+  </Table>
+  <Table>
+    <nombre>programacion 1</nombre>
+    <total>6</total>
+  </Table>
+  <Table>
+    <nombre>fisica 2</nombre>
+    <total>5</total>
+  </Table>
+  <Table>
+    <nombre>derecho</nombre>
+    <total>6</total>
+  </Table>
+  <Table>
+    <nombre>sintaxis</nombre>
+    <total>7</total>
+  </Table>
+  <Table>
+    <nombre>seguridad</nombre>
+    <total>5</total>
+  </Table>
+  <Table>
+    <nombre>asdf</nombre>
+    <total>0</total>
+  </Table>
+  <Table>
+    <nombre>curso de prueba</nombre>
+    <total>0</total>
+  </Table>
+  <Table>
+    <nombre>matematica 2</nombre>
+    <total>0</total>
+  </Table>
+</NewDataSet>

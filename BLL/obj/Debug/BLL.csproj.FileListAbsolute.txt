@@ -1,0 +1,11 @@
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\bin\Debug\BLL.dll
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\bin\Debug\BLL.pdb
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\obj\Debug\BLL.dll
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\obj\Debug\BLL.pdb
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\bin\Debug\BE.dll
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\bin\Debug\DAL.dll
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\bin\Debug\BE.pdb
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\bin\Debug\DAL.pdb
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BLL\obj\Debug\BLL.csproj.Up2Date

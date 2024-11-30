@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <nombre>asdfsadf</nombre>
+    <total>1872</total>
+  </Table>
+  <Table>
+    <nombre>programacion 1</nombre>
+    <total>3500</total>
+  </Table>
+  <Table>
+    <nombre>fisica 2</nombre>
+    <total>5250</total>
+  </Table>
+  <Table>
+    <nombre>derecho</nombre>
+    <total>6000</total>
+  </Table>
+  <Table>
+    <nombre>sintaxis</nombre>
+    <total>2100</total>
+  </Table>
+  <Table>
+    <nombre>seguridad</nombre>
+    <total>2100</total>
+  </Table>
+  <Table>
+    <nombre>asdf</nombre>
+    <total>0</total>
+  </Table>
+</NewDataSet>

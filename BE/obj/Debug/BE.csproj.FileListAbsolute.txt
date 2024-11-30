@@ -1,0 +1,6 @@
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BE\bin\Debug\BE.dll
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BE\bin\Debug\BE.pdb
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BE\obj\Debug\BE.dll
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\BE\obj\Debug\BE.pdb

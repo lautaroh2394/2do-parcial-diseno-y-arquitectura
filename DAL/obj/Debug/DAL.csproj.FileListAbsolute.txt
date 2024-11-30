@@ -1,0 +1,6 @@
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\DAL\bin\Debug\DAL.dll
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\DAL\bin\Debug\DAL.pdb
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\DAL\obj\Debug\DAL.dll
+C:\Users\Lau\source\repos\2do-parcial-diseño-y-arquitectura-lautaro-haase\DAL\obj\Debug\DAL.pdb
